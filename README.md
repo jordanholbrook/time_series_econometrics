@@ -1,4 +1,4 @@
-# time_series_econometrics
+# Time Series Econometrics
 Collection of Matlab scripts for Professor Bent Sorensen's Macroeconometrics Ph.D. Course
 
 
